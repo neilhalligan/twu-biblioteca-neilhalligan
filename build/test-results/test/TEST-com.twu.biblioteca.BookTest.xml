@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.twu.biblioteca.BookTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-07-29T13:44:43" hostname="neil-VPCS11X9E" time="0.002">
+  <properties/>
+  <testcase name="equals" classname="com.twu.biblioteca.BookTest" time="0.0"/>
+  <testcase name="hasAuthor" classname="com.twu.biblioteca.BookTest" time="0.0"/>
+  <testcase name="hasTitle" classname="com.twu.biblioteca.BookTest" time="0.0"/>
+  <testcase name="hasYearPublished" classname="com.twu.biblioteca.BookTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
